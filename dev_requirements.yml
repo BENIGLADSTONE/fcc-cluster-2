@@ -1,0 +1,7 @@
+name: fcc2-dev
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pre-commit
