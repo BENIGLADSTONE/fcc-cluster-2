@@ -1,3 +1,5 @@
+[![Lint Action Status](https://github.com/joaorodrigues/fcc-cluster-2/workflows/Lint/badge.svg)](https://github.com/joaorodrigues/fcc-cluster-2/actions)
+
 # FCC Clustering
 A Python library to cluster protein structures using contact-based
 metrics.
